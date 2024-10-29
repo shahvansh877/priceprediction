@@ -9,10 +9,14 @@ Jinja2==3.0.1
 joblib==1.0.1
 MarkupSafe==2.0.1
 nltk==3.6.2
-numpy==1.21.1
+
+numpy==1.22.4
+scikit-learn==1.0.2
+
+
 platformdirs==2.2.0
 regex==2021.4.4
-scikit-learn==0.24.1
+
 scipy>=1.7,<1.11
 
 six==1.16.0
