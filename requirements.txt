@@ -26,3 +26,4 @@ threadpoolctl==2.2.0
 tqdm==4.61.1
 virtualenv==20.7.0
 Werkzeug==2.0.1
+python-3.9.6
